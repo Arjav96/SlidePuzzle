@@ -23,10 +23,12 @@ How to Play Slide Puzzle
 The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to right) and one
 blank space. The tiles start out in random positions, and the player must slide tiles around until
 the tiles are back in their original order.  
+Click tile or press arrow keys to slide in desired direction.
+![slide3](slide3.png)
 
 
 ScreenShot
 ----------
 
 ![SlidePuzzle](slidepuzzle.png)
-![slide3](slide3.png)
+
