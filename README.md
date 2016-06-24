@@ -29,3 +29,4 @@ ScreenShot
 ----------
 
 ![SlidePuzzle](slidepuzzle.png)
+![slide3](slide3.png)
